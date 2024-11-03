@@ -1,4 +1,3 @@
-/*
 package com.ogisystems;
 
 import com.ogisystems.model.Dish;
@@ -101,4 +100,3 @@ class GameServiceTest {
         verify(gameInterfaceService).endGame();
     }
 }
-*/
